@@ -6,7 +6,9 @@ I am **Evans**, a full-stack software developer from Nyeri, Kenya.
 - 💬 Ask me about React, Typescript, NodeJS, GraphQL, Docker.
 - 🫱 Find me on [linkedin](https://www.linkedin.com/in/evans-kibet)
 
-<p align=""> <img src="https://github-readme-stats.vercel.app/api?username=vansoundz&show_icons=true&theme=vansoundz" alt="vansoundz" /> </p>
+![vansoundz](https://github-readme-stats.vercel.app/api?username=Vansoundz&show_icons=true&theme=tokyonight&count_private=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vansoundz&theme=tokyonight&layout=compact)
 
 
 <a href="https://www.linkedin.com/in/evans-kibet/" style="margin-right: 12px" target="blank"> 

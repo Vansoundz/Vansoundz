@@ -6,4 +6,4 @@ I am **Evans**, a full-stack software developer from Nyeri, Kenya.
 - 💬 Ask me about React, Typescript, NodeJS, GraphQL, Docker.
 - 🫱 Find me on [linkedin](https://www.linkedin.com/in/evans-kibet)
 
-![hackerrank][https://www.hackerrank.com/vansoundz]
+![hackerrank](https://www.hackerrank.com/vansoundz)

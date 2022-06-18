@@ -6,4 +6,23 @@ I am **Evans**, a full-stack software developer from Nyeri, Kenya.
 - 💬 Ask me about React, Typescript, NodeJS, GraphQL, Docker.
 - 🫱 Find me on [linkedin](https://www.linkedin.com/in/evans-kibet)
 
-![hackerrank](https://www.hackerrank.com/vansoundz)
+<p align=""> <img src="https://github-readme-stats.vercel.app/api?username=vansoundz&show_icons=true&theme=vansoundz" alt="vansoundz" /> </p>
+
+
+<a href="https://www.linkedin.com/in/evans-kibet/" style="margin-right: 12px" target="blank"> 
+  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" alt="evans kibet" width="30" />
+</a>
+
+<a href="https://www.hackerrank.com/vansoundz" target="blank"> 
+  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" alt="evans kibet" height="40" width="40" />
+</a>
+
+<a href="https://twitter.com/van_gobot" target="blank"> 
+  <img align="center" src="https://www.hamiltoncountyhealth.org/wp-content/uploads/Twitter-Logo.png" alt="evans kibet" width="50" />
+</a>
+
+
+<a href="https://instagram.com/vansoundz" target="blank"> 
+  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" alt="evans kibet" width="30" />
+</a>
+

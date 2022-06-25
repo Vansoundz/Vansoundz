@@ -4,7 +4,7 @@ I am **Evans**, a full-stack software developer from Nyeri, Kenya.
 ![vansoundz](https://komarev.com/ghpvc/?username=vansoundz)
 
 - 🔭 I’m currently working on exciting projects with awesome features like event scheduling and nightly data processing among many other features.
-- 🌱 I’m currently learning web3 and blockchain technology.
+- 🌱 I’m currently learning golang.
 - 💬 Ask me about React, Typescript, NodeJS, GraphQL, Docker.
 - 🫱 Find me on [linkedin](https://www.linkedin.com/in/evans-kibet)
 

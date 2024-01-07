@@ -16,7 +16,7 @@ I am **Evans**, a full-stack software developer from Nyeri, Kenya.
   <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" alt="evans kibet" height="40" width="40" />
 </a>
 
-<a href="https://twitter.com/van_gobot" target="blank"> 
+<a href="https://twitter.com/vansoundz" target="blank"> 
   <img align="center" src="https://www.hamiltoncountyhealth.org/wp-content/uploads/Twitter-Logo.png" alt="evans kibet" width="50" />
 </a>
 

@@ -17,7 +17,7 @@ I am **Evans**, a full-stack software developer from Nyeri, Kenya.
 </a>
 
 <a href="https://twitter.com/vansoundz" target="blank"> 
-  <img align="center" src="https://www.hamiltoncountyhealth.org/wp-content/uploads/Twitter-Logo.png" alt="evans kibet" width="50" />
+  <img align="center" src="https://img.freepik.com/premium-vector/new-twitter-logo-x-2023-twitter-x-logo-official-vector-download_691560-10797.jpg" alt="evans kibet" width="50" />
 </a>
 
 
